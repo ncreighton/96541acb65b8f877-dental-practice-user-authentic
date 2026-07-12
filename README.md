@@ -1,0 +1,2 @@
+# 96541acb65b8f877-dental-practice-user-authentic
+dental practice professionals waste hours on context-switching away from your editor to look things up. This fixes that.  Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces. Integrates seamlessly into your VS Code workflow — keyboard shortcuts included.  ## What's Included  - Dental Practice User Authentication And Access Contro
